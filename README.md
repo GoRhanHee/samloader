@@ -7,7 +7,7 @@
 ## Installation
 ```
 pip3 uninstall samloader (if previously installed)
-pip3 install git+https://github.com/ananjaser1211/samloader.git
+pip3 install git+https://github.com/GoRhanHee/samloader.git
 ```
 
 ## Quick Usage and Notes
