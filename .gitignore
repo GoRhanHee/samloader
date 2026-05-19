@@ -3,3 +3,4 @@ samloader.egg-info
 *.log
 *.zip
 *.enc*
+**.DS_Store
